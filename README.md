@@ -5,7 +5,7 @@
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a)
+![![WhatsApp Image 2023-11-21 at 15 06 08_6e41176c](https://github.com/tharunkumaran2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625188/9c5be4a8-1a47-4e42-a81b-c7eebc430d6c)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -27,14 +27,16 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![![WhatsApp Image 2023-11-21 at 15 06 08_a230ee87](https://github.com/tharunkumaran2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625188/826af827-61a9-49ef-82b3-050bb1240636)
+]
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+![![WhatsApp Image 2023-11-21 at 15 06 07_d0cfbf97](https://github.com/tharunkumaran2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625188/edf08761-108a-47d6-9580-fe8544b56998)
+]
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Tharun V K
+### Register Number:23003686
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
