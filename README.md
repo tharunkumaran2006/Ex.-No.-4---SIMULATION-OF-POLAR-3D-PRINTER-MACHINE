@@ -1,10 +1,8 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a)
 
 ## REQUIREMENTS:
